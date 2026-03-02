@@ -74,6 +74,7 @@ pip install pandas matplotlib seaborn
 ▶️ Running the Pipeline
 Run Full Workflow
 ./run_pipeline.sh
+```
 
 This will:
 
@@ -93,7 +94,7 @@ Run Statistics & Report Only
 
 If trajectory analysis is already completed:
 
-./run_pipeline.sh stats
+```./run_pipeline.sh stats```
 📊 Analyses Performed
 
 Per system:
@@ -176,3 +177,4 @@ Version: v1.0
   url     = {(https://github.com/nalgirkarh-prog/md-multisystem-analysis-pipeline/edit/main/md_post)},
   version = {v1.0}
 }
+```
