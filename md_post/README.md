@@ -163,7 +163,7 @@ If you use this pipeline in your research, please cite:
 *MD-POST: Multi-System GROMACS Post-Processing Pipeline.*  
 GitHub repository.  
 
-Available at: https://github.com/<your-username>/md-post  
+Available at: https://github.com/nalgirkarh-prog/md-multisystem-analysis-pipeline/edit/main/md_post
 Version: v1.0
 
 ### BibTeX
