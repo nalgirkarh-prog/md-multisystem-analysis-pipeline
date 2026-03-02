@@ -14,7 +14,7 @@ It enables:
 
 ## 📂 Repository Structure
 
-
+```
 md_post/
 ├── config/
 │ └── pipeline_config.sh
@@ -31,7 +31,7 @@ md_post/
 ├── 05_plots.py
 ├── outputs/ # Auto-generated analysis outputs
 └── report_generator.py
-
+```
 
 ---
 
@@ -95,6 +95,8 @@ Run Statistics & Report Only
 If trajectory analysis is already completed:
 
 ```./run_pipeline.sh stats```
+
+
 📊 Analyses Performed
 
 Per system:
