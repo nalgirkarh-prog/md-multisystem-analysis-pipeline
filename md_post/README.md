@@ -173,6 +173,6 @@ Version: v1.0
   author  = {Harsh},
   title   = {MD-POST: Multi-System GROMACS Post-Processing Pipeline},
   year    = {2026},
-  url     = {https://github.com/<your-username>/md-post},
+  url     = {[https://github.com/<your-username>/md-post](https://github.com/nalgirkarh-prog/md-multisystem-analysis-pipeline/edit/main/md_post)},
   version = {v1.0}
 }
